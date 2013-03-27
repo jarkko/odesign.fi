@@ -16,7 +16,7 @@ body {
 }
 
 #toppic {
-  background: white url(images/iltarusko.jpg) top left;
+  background: white url(/images/iltarusko.jpg) top left;
   width: 600px;
   height: 133px;
 }
