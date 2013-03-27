@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="31"
+   name=""
+   committed-date="2004-09-26T14:34:23.887289Z"
+   url="http://textpattern.com/svn/repos/current/textpattern/lib"
+   last-author="dean"
+   kind="dir"
+   uuid="9f4ba7e5-8be4-0310-8a13-eacbff687fd7"
+   revision="31"/>
+<entry
+   committed-rev="31"
+   name="txplib_misc.php"
+   text-time="2004-09-27T06:21:36.000000Z"
+   committed-date="2004-09-26T14:34:23.887289Z"
+   checksum="c9a13744c6e4e5df8405fa9a3a186ed4"
+   last-author="dean"
+   kind="file"
+   prop-time="2004-09-27T06:21:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="admin_config.php"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="baa35ece22f27067cf1a48c2a30a5f42"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="taglib.php"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="e62acbfc3910e95cadfd4f9c664deae3"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="txplib_head.php"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="2386061408880e3d666eb6cec8318ddd"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="classTextile.php"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="1c6586e3f6ed006e8ec24228c2cdb031"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="txplib_html.php"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="15bec1680a79dc26ebe5270094ae1286"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="txplib_db.php"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="ab7e6dfc8c13eca24c23d64adc9e59d2"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="txplib_forms.php"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="0c228bddbd342fec5f833718f89ac0af"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="IXRClass.php"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="1ffb698894de4e2411c492812fb5fce7"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+</wc-entries>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="28"
+   name=""
+   committed-date="2004-09-26T09:07:27.816400Z"
+   url="http://textpattern.com/svn/repos/current/textpattern/publish"
+   last-author="dean"
+   kind="dir"
+   uuid="9f4ba7e5-8be4-0310-8a13-eacbff687fd7"
+   revision="31"/>
+<entry
+   committed-rev="1"
+   name="mention.php"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="65ae6cb7e8ad820c6b41c49d9feb443f"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="23"
+   name="taghandlers.php"
+   text-time="2004-09-26T09:41:02.000000Z"
+   committed-date="2004-09-25T14:12:33.757005Z"
+   checksum="7a6d9349d480386b81e46e0cb1aa3540"
+   last-author="dean"
+   kind="file"
+   prop-time="2004-09-26T09:41:02.000000Z"/>
+<entry
+   committed-rev="28"
+   name="atom.php"
+   text-time="2004-09-26T09:41:02.000000Z"
+   committed-date="2004-09-26T09:07:27.816400Z"
+   checksum="7e443eccf19ecdf11ad557d26af5422d"
+   last-author="dean"
+   kind="file"
+   prop-time="2004-09-26T09:41:02.000000Z"/>
+<entry
+   committed-rev="1"
+   name="log.php"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="5c65fcb7144c8850c9757871ff034781"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="comment.php"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="5744421571829a7d080300b428dde846"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="25"
+   name="search.php"
+   text-time="2004-09-26T09:41:02.000000Z"
+   committed-date="2004-09-25T15:06:50.725501Z"
+   checksum="ac0645410d6b83f396033e969be36486"
+   last-author="dean"
+   kind="file"
+   prop-time="2004-09-26T09:41:02.000000Z"/>
+<entry
+   committed-rev="21"
+   name="rss.php"
+   text-time="2004-09-26T09:41:02.000000Z"
+   committed-date="2004-09-24T13:11:46.169546Z"
+   checksum="da66d46b8c8b06e096d2ca96000d93ff"
+   last-author="dean"
+   kind="file"
+   prop-time="2004-09-26T09:41:02.000000Z"/>
+</wc-entries>

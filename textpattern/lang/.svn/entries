@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2004-09-20T23:23:15.781546Z"
+   url="http://textpattern.com/svn/repos/current/textpattern/lang"
+   last-author="root"
+   kind="dir"
+   uuid="9f4ba7e5-8be4-0310-8a13-eacbff687fd7"
+   revision="31"/>
+<entry
+   committed-rev="1"
+   name="en-gb.txt"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="1f828efa65355d6c4e1875a7694e4443"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+</wc-entries>

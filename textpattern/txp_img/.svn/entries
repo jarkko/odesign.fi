@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2004-09-20T23:23:15.781546Z"
+   url="http://textpattern.com/svn/repos/current/textpattern/txp_img"
+   last-author="root"
+   kind="dir"
+   uuid="9f4ba7e5-8be4-0310-8a13-eacbff687fd7"
+   revision="31"/>
+<entry
+   committed-rev="1"
+   name="tabs_d11_T4W.png"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="45288b03bbe543feead1614047d1ecb4"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="button.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="92c6eae276f9c20f991df071083405e3"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="txp1_0.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="fb101b50edd0024228ec829fe8a113ff"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tabshadow.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="528666f29dbe2b9aed970682856548f7"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="textdown.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="eb9cb3fef7bafaa5f312078ce264149e"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tabsbg.png"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="fafad525567c505ef4294111c0fbd990"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="texttabshadow.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="739d3e2db2e8d92dcfb52895a1e683f0"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tplogoGreyer.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="c7bdb941b6b0e1b39c8873f8ddc9e2e2"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="textpattern.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="7dc180fa69142791ff06478b5de27230"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="carver.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="647affac5cb2450d8a7ecbd58e4eb5b8"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tabs_d11_T4.png"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="b6e1cd67372b4040e35e54cf31d6cfb2"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="up.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="c35d6f3248e8dcb22b44e70cb530c007"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tabs_d12_T4.png"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="03de408fc5e1d7c1c4cc4b8cb47f32fd"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="previewup.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="fdc116898ff174a5aa69f3760122b1e0"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="header.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="777b2a65b76907ab67e3f2ebd6db16c7"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tabsbg_T4.png"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="8a1b5eccd11e326cd521ae1235cad938"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tabs.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="ce6f169e6b6c53300a42dad0b85704c7"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="down2.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="e37180a41a1dcfe1f2b4aae668813e8e"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="textup.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="8b7f2fae0bece5511021e962200b1d19"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="txp_editorheader.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="11d4af3a59e07fdfda57936c917f9131"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="txp_slug105x70.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="858b9d7a218601c4cbdde02372303629"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="htmldown.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="b17a1d9e1672d96203f5824b230a03e1"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="txp_slug105x45.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="974b460f20bfad1c7576d37e8c653fda"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="reset_time.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="4f42a2ec0426075f51d5a2675dc77f46"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="howto.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="6830a38bfcc4b1f37d7f5d64a6ca6384"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tabsbg2.png"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="09a6bb5ebf08ca8cdcef5518c2fa7b49"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="up2.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="fd51368087c8cdab2e636151793d5e7b"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="down.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="ca0927f96114095874567a48a4be35dd"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="previewdown.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="8a7711bcefaf2715df1d63a0bddfb024"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="htmlup.gif"
+   text-time="2004-09-21T05:41:03.000000Z"
+   committed-date="2004-09-20T23:23:15.781546Z"
+   checksum="2cff42e2ba6184c8b8330c5c4e41716d"
+   last-author="root"
+   kind="file"
+   prop-time="2004-09-21T05:41:03.000000Z"/>
+</wc-entries>
