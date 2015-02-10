@@ -1,128 +1,141 @@
+/* line 1, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 body {
   font-family: "Helvetica Neue", arial, "Trebuchet MS", sans-serif;
   font-size: small;
   line-height: 1.4em;
   color: #444;
   background: #222 url(/images/odesign-background.gif);
-  padding-top: 0; margin: 0;
-}
+  padding-top: 0;
+  margin: 0; }
 
+/* line 10, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 #container {
   background-color: white;
   width: 600px;
   margin: 0 auto;
   padding: 0;
-  border: 1px solid #222;
-}
+  border: 1px solid #222; }
 
+/* line 18, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 #toppic {
   background: white url(/images/iltarusko.jpg) top left;
   width: 600px;
   height: 133px;
-}
+  position: relative; }
 
+/* line 25, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
+#lang {
+  position: absolute;
+  right: 15px;
+  top: 10px; }
+  /* line 30, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
+  #lang a {
+    color: #000; }
+
+/* line 37, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 #teaser {
   width: 500px;
   margin: 0 auto;
   padding: 0;
   font-size: 130%;
-  line-height: 1.1em;
+  line-height: 1.2em;
   color: #666;
-  background: #FCB22D url(/images/top.gif) no-repeat top left;
-}
+  background: #FCB22D url(/images/top.gif) no-repeat top left; }
+  /* line 46, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
+  #teaser a {
+    color: #795615; }
 
+/* line 51, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 #teaser p {
   margin: 0;
   padding: 25px;
-  background: url(/images/bottom.gif) no-repeat bottom;
-}
+  background: url(/images/bottom.gif) no-repeat bottom; }
 
+/* line 57, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 h1, h2 {
   margin-top: 20px;
   font-family: "American Typewriter", "Courier New" Monaco, Courier, serif;
   color: #999;
   letter-spacing: 5px;
-  font-weight: normal;
-}
+  font-weight: normal; }
 
+/* line 65, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 h1 {
-  font-size: 250%;
-}
+  font-size: 250%; }
 
+/* line 69, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 h2 {
   color: #777;
-  margin-bottom: 0;
-}
+  margin-bottom: 0; }
 
+/* line 74, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 #container h1 {
-  margin-left: 50px;
-}
+  margin-left: 50px; }
 
+/* line 78, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 h1 #o {
-  color: #67B543;
-}
+  color: #67B543; }
 
+/* line 82, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 h1 #n {
-  color: #FCB22D;
-}
+  color: #FCB22D; }
 
+/* line 86, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 a {
   text-decoration: none;
   color: #D89925;
   border: 0;
-  border-bottom: 1px dotted #444;
-}
+  border-bottom: 1px dotted #444; }
 
+/* line 93, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 a:hover {
-  border-bottom: 1px solid #666;
-}
+  border-bottom: 1px solid #666; }
 
+/* line 97, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 #content {
-  padding: 0 40px;
-}
+  padding: 0 40px; }
 
+/* line 101, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 dt {
   font-weight: bold;
-  margin-top: 5px;
-}
+  margin-top: 5px; }
 
+/* line 106, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 dd {
-  margin-left: 15px;
-}
+  margin-left: 15px; }
 
+/* line 110, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 #arvot dd {
-  font-size: 85%;
-}
+  font-size: 85%; }
 
+/* line 114, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 #arvot {
   margin-top: 0;
   padding: 10px;
   background-color: #bbb;
-  border: 1px solid #777;
-}
+  border: 1px solid #777; }
 
+/* line 121, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 #footer {
   display: block;
   padding: 10px 40px;
-  height: 200px;
-}
+  height: 200px; }
 
+/* line 127, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 #footer img {
   margin: 35px 0 0 50px;
-  float: left;
-}
+  float: left; }
 
+/* line 132, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 #footer dl {
   margin: 30px 50px 0 0;
   display: inline;
-  float: right;
-}
+  float: right; }
 
+/* line 138, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 #footer dd {
-  margin-left: 0;
-}
+  margin-left: 0; }
 
+/* line 142, /Users/jarkko/Sites/odesign.fi/source/stylesheets/lofi.css.scss */
 a abbr {
-  border-width: 0;
-}
-
+  border-width: 0; }
